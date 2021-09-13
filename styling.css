@@ -1,0 +1,45 @@
+/* PLAY NOW (FIRST MAIN PAGE) */
+.main-screen {
+  background-image: url('./assets/main-bg.jpg');
+  background-size: 100% 100%;
+  height: 960px;
+  position: relative;
+}
+
+
+/* THE GAMES (SECOND MAIN PAGE) */
+.the-games {
+    background-image: url('./assets/the-games-bg.jpg');
+    background-size: 100% 100%;
+    height: 960px;
+}
+
+/* FEATURE (THIRD MAIN PAGE) */
+.features {
+    background-image: url('./assets/features.jpg');
+    background-size: 100% 100%;
+    height: 960px;
+}
+
+/* SYSTEM REQUIREMENTS (FOURTH MAIN PAGE) */
+.sysreq {
+    background-image: url('./assets/requirements.jpg');
+    background-size: 100% 100%;
+    height: 960px;
+}
+
+/* TOP SCORES (FIFTH MAIN PAGE) */
+.top-scores {
+    background-image: url('./assets/top-score-bg.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 960px;
+}
+
+/* NEWSLETTER (SIXTH MAIN PAGE) */
+.newsletter {
+    background-image: url('./assets/black-bg.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 960px;
+}
